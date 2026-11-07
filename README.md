@@ -13,6 +13,8 @@
 
 **`~12,483 notes` · `~16,944 screenshots` · `19 courses`** · work in progress
 
+**About me:** [johntran-android.github.io](https://johntran-android.github.io): what I study, the tools I build, and how they fit together.
+
 ---
 
 ## What is this?
